@@ -65,6 +65,12 @@ Limitations are listed in `docs/LIMITATIONS.md`. Please read them before citing 
 
 Materials Project (CC BY 4.0), AFLOW, JARVIS-DFT (NIST, public domain), NOMAD and Alexandria (CC BY 4.0), OQMD (CC BY 4.0), GNoME (CC BY 4.0, Merchant et al., *Nature* 624, 80, 2023). Literature records cite each paper's DOI. Only bibliographic facts and short paraphrases are included, no copied text.
 
+## Links
+
+- **Archived release (cite this):** https://doi.org/10.5281/zenodo.23456632 (version 0.1.0)
+- **Preprint describing this work:** Ejeka, J.C. *Can Public DFT Databases Guide Composition Selection for Metastable Magnets? A Validation of Energy-Above-Hull Screening Against Rapidly Solidified and Milled TbCu₇-Type Sm–Fe–M Alloys.* Zenodo, 2026. https://doi.org/10.5281/zenodo.23457250
+- **Source repository:** https://github.com/johemeks/tbcu7-stability-screen
+
 ## License and citation
 
 Code: MIT (`LICENSE`). Data and documents: CC BY 4.0 (`LICENSE-DATA`). Please cite using `CITATION.cff` or https://doi.org/10.5281/zenodo.23456632.

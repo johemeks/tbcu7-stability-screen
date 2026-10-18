@@ -12,6 +12,7 @@ authors:
 license: CC-BY-4.0
 doi: "10.5281/zenodo.23456632"
 url: "https://doi.org/10.5281/zenodo.23456632"
+repository-code: "https://github.com/johemeks/tbcu7-stability-screen"
 keywords:
   - TbCu7
   - Sm-Fe
@@ -21,3 +22,13 @@ keywords:
   - DFT database validation
   - melt spinning
   - mechanical alloying
+references:
+  - type: article
+    title: "Can Public DFT Databases Guide Composition Selection for Metastable Magnets? A Validation of Energy-Above-Hull Screening Against Rapidly Solidified and Milled TbCu7-Type Sm-Fe-M Alloys"
+    authors:
+      - family-names: "Ejeka"
+        given-names: "Joshua Chukwuemeka"
+        orcid: "https://orcid.org/0009-0005-5885-5073"
+    year: 2026
+    status: preprint
+    doi: "10.5281/zenodo.23457250"

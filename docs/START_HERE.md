@@ -34,7 +34,8 @@ All sources are free and public.
 - [x] **The stability proxy table** (`data/processed/stability_proxy_table.csv`): best entry per database, alloy family and crystal type
 - [x] **The validation results**: a hit/miss table per experiment and a scorecard per database
 - [x] **Four figures** and a short web report
-- [ ] Optionally, a public GitHub page for the code (not yet created)
+- [x] **A public GitHub page for the code**: https://github.com/johemeks/tbcu7-stability-screen
+- [x] **A preprint of the paper on Zenodo**: https://doi.org/10.5281/zenodo.23457250
 
 ## How it connects to your work
 
