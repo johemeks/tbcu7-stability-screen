@@ -1,0 +1,13 @@
+obs_id,database,phase,computed_m_Fe_muB_0K,measured_m_Fe_muB_RT,measured_m_Fe_muB_0K_est_low,measured_m_Fe_muB_0K_est_high,ratio_computed_to_0K_mid,note
+O01,MP,TbCu7 SmFe9,,1.634,1.879,1.955,,database exposes no per-site or per-cell moments
+O12,MP,TbCu7 + alpha-Fe ribbon (SmFe12 nominal),,1.75,,,,"sample average, includes alpha-Fe; measurement temperature not stated in abstract"
+O01,AFLOW,TbCu7 SmFe9,,1.634,1.879,1.955,,no Sm-Fe entries
+O12,AFLOW,TbCu7 + alpha-Fe ribbon (SmFe12 nominal),,1.75,,,,"sample average, includes alpha-Fe; measurement temperature not stated in abstract"
+O01,JARVIS,TbCu7 SmFe9,1.503,1.634,1.879,1.955,0.784,interpolated between Fe17Sm2 (1.36) and Fe12Sm (2.128)
+O12,JARVIS,TbCu7 + alpha-Fe ribbon (SmFe12 nominal),1.503,1.75,,,,"sample average, includes alpha-Fe; measurement temperature not stated in abstract"
+O01,NOMAD-Alexandria,TbCu7 SmFe9,2.228,1.634,1.879,1.955,1.162,interpolated between Fe5Sm (2.182) and Fe12Sm (2.244)
+O12,NOMAD-Alexandria,TbCu7 + alpha-Fe ribbon (SmFe12 nominal),2.228,1.75,,,,"sample average, includes alpha-Fe; measurement temperature not stated in abstract"
+O01,OQMD,TbCu7 SmFe9,,1.634,1.879,1.955,,database exposes no per-site or per-cell moments
+O12,OQMD,TbCu7 + alpha-Fe ribbon (SmFe12 nominal),,1.75,,,,"sample average, includes alpha-Fe; measurement temperature not stated in abstract"
+O01,GNoME,TbCu7 SmFe9,,1.634,1.879,1.955,,no Sm-Fe entries
+O12,GNoME,TbCu7 + alpha-Fe ribbon (SmFe12 nominal),,1.75,,,,"sample average, includes alpha-Fe; measurement temperature not stated in abstract"

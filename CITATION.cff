@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "TbCu7 Stability Screen: validation of public DFT databases against observed metastable phases in Sm-Fe-M alloys (stability proxy table)"
+version: "0.1.0"
+date-released: "2026-10-18"
+authors:
+  - family-names: "Ejeka"
+    given-names: "Joshua Chukwuemeka"
+    orcid: "https://orcid.org/0009-0005-5885-5073"
+    affiliation: "Independent Researcher"
+license: CC-BY-4.0
+doi: "10.5281/zenodo.23456632"
+url: "https://doi.org/10.5281/zenodo.23456632"
+keywords:
+  - TbCu7
+  - Sm-Fe
+  - permanent magnets
+  - metastable phases
+  - energy above hull
+  - DFT database validation
+  - melt spinning
+  - mechanical alloying

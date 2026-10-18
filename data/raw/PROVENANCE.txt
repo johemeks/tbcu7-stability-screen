@@ -1,0 +1,12 @@
+# PROVENANCE: data/raw snapshot
+# Plain-language note: where each raw file came from, when, and a fingerprint (SHA-256) so anyone can confirm it is unchanged.
+# Method: queries run 2026-10-13 from a web browser (JavaScript fetch to the URLs below); responses reduced to the columns used and saved as JSON. Exact query filters are recorded inside each file's 'source' field.
+file	bytes	sha256	source	access_date
+aflow_aflux_coverage.json	1154	71b3383bbefe7a4ad09aa3d35ea4c14d7355db7a24e0dd9cbdf6309f6090fc4a	https://aflow.org/API/aflux/	2026-10-13
+gnome.json	3416	26f8a916143635baf9ba597517fe32bedda67fe435967bd59385cad9d44169b8	https://storage.googleapis.com/gdm_materials_discovery/gnome_data/stable_materials_summary.csv (151452777 B) + stable_materials_r2scan.csv (22004293 B), filtered	2026-10-13
+jarvis_optimade.json	1669	1d34e6689ee6fa903b57ed25492066a5b8a38f826eed2e1d3edae54154c29e37	https://jarvis.nist.gov/optimade/jarvisdft/v1/structures	2026-10-13
+mp_optimade.json	6475	8805611bfaec45b3e0e5a8a6fff1ffdc575a518db62735d3ed63c89b883bd3f1	https://optimade.materialsproject.org/v1/structures (filters in file header)	2026-10-13
+nomad_alexandria.json	24053	699c50a3b67893117274c8288d5bb3e4a511abcdc5773b146eef67dc681ec342	https://alexandria.icams.rub.de/pbe/v1/structures	2026-10-13
+nomad_inventory.json	3111	6b6b935125fdab4b98fc28f96222ed48e5e3aa5a2a19721d94cc9d6655e096aa	https://nomad-lab.eu/prod/v1/api/v1/entries/query	2026-10-13
+oqmd_smfe_binary.json	2281	ac7c064cebd2baf4fd0a9ec49d25bdbe0964281e280254bcce99f1aa64fcaef3	https://oqmd.org/optimade/structures	2026-10-13
+oqmd_ternary.json	11152	0ee9398e9417f374af0204f346e98dd880cbe1f5f12e2c0fc8eeb396a7e2ba58	https://oqmd.org/optimade/structures (one query per M)	2026-10-13

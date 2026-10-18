@@ -1,0 +1,9 @@
+{"source":"AFLOW AFLUX API (https://aflow.org/API/aflux/), retrieved 2026-10-13 via browser",
+"queries":{
+ "species(Sm),nspecies(2)":{"n_entries":387,"partners":{"Ag":2,"Al":12,"Au":2,"B":298,"Bi":3,"Cd":3,"Co":1,"H":1,"I":1,"In":1,"Mg":3,"Os":1,"P":2,"Pb":3,"Pd":6,"Pt":4,"Re":1,"Rh":4,"Ru":4,"S":2,"Sb":5,"Se":8,"Si":1,"Sn":3,"Te":9,"Tl":4,"Zn":3}},
+ "species(Sm),nspecies(3)":{"n_entries":88,"containing_Fe":[],"containing_Co":["Al32Co8Sm4","Co2P2Sm1","Co2P2Sm2","Co2Si4Sm2","Co1Si3Sm1","Co2Si2Sm1"]},
+ "species(Sm),nspecies(4)":{"n_entries":2,"containing_Fe":[]},
+ "species(Sm),species(Fe)":{"n_entries":0},
+ "species(Sm),species(Co),nspecies(2)":[{"compound":"Co4Sm2","auid":"aflow:7e2fb97e86e5620a","aurl":"aflowlib.duke.edu:AFLOWDATA/ICSD_WEB/FCC/Co2Sm1_ICSD_102665","spacegroup_relax":227,"Pearson_symbol_relax":"cF24","enthalpy_formation_atom":null,"spin_atom":3.12176,"natoms":6}]
+},
+"conclusion":"AFLOW contains no Sm-Fe or Sm-Fe-M entries; Sm-Co is represented by one MgCu2-type SmCo2 entry without a formation enthalpy. AFLOW therefore contributes zero usable stability values to the screen (coverage failure, not a stability prediction)."}

@@ -1,0 +1,22 @@
+{
+  "_comment": "Author block. Every citation file and the Zenodo record read from here.",
+  "authors": [
+    {
+      "name": "Joshua Chukwuemeka Ejeka",
+      "family": "Ejeka",
+      "given": "Joshua Chukwuemeka",
+      "orcid": "0009-0005-5885-5073",
+      "email": "",
+      "affiliation": "Independent Researcher",
+      "roles": [
+        "Conceptualization",
+        "Methodology",
+        "Data curation",
+        "Validation",
+        "Writing - original draft"
+      ],
+      "corresponding": true
+    }
+  ],
+  "collaborators": []
+}

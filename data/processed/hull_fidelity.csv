@@ -1,0 +1,19 @@
+database,known_stable_phase,best_entry,ehull_eV_atom,verdict_(<= 0.01 eV/atom)
+MP,Sm2Fe17,mp-1426,0.0229,fail
+MP,SmFe3,mp-1102187,0.0075,pass
+MP,SmFe2,mp-1729,0.0228,fail
+AFLOW,Sm2Fe17,,,no entry
+AFLOW,SmFe3,,,no entry
+AFLOW,SmFe2,,,no entry
+JARVIS,Sm2Fe17,JVASP-85844,0.0519,fail
+JARVIS,SmFe3,,,no entry
+JARVIS,SmFe2,JVASP-19950,0.0012,pass
+NOMAD-Alexandria,Sm2Fe17,agm005529553,0.0194,fail
+NOMAD-Alexandria,SmFe3,agm002211668,0.0053,pass
+NOMAD-Alexandria,SmFe2,agm003195273,0.0229,fail
+OQMD,Sm2Fe17,oqmd-4818030,0.02,fail
+OQMD,SmFe3,oqmd-4103652,0.006,pass
+OQMD,SmFe2,oqmd-4093401,0.023,fail
+GNoME,Sm2Fe17,,,no entry
+GNoME,SmFe3,,,no entry
+GNoME,SmFe2,,,no entry

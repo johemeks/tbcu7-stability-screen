@@ -1,0 +1,195 @@
+{
+  "n_observations_total": 38,
+  "n_observations_scored": 30,
+  "n_systems_scored": 11,
+  "systems_scored": [
+    "Sm-Fe",
+    "Sm-Fe-Al",
+    "Sm-Fe-Co",
+    "Sm-Fe-Cu",
+    "Sm-Fe-Ga",
+    "Sm-Fe-Mo",
+    "Sm-Fe-Nb",
+    "Sm-Fe-Si",
+    "Sm-Fe-Ti",
+    "Sm-Fe-V",
+    "Sm-Fe-Zr"
+  ],
+  "core_M_without_any_observation": [
+    "Cr",
+    "Hf",
+    "Mn"
+  ],
+  "n_computed_entries": 628,
+  "entries_by_db": {
+    "MP": 61,
+    "AFLOW": 0,
+    "JARVIS": 14,
+    "NOMAD-Alexandria": 354,
+    "OQMD": 191,
+    "GNoME": 8
+  },
+  "tau_eV_atom": 0.05,
+  "comp_window": 0.1,
+  "T_quench_K": 1273.0,
+  "tbcu7_proxy_x9_meV": {
+    "MP": 19.3,
+    "AFLOW": null,
+    "JARVIS": 89.4,
+    "NOMAD-Alexandria": 15.6,
+    "OQMD": 18.1,
+    "GNoME": null
+  },
+  "TS_conf_x9_meV": 11.3,
+  "stable_SmFe_compounds_on_hull": {
+    "MP": [],
+    "AFLOW": null,
+    "JARVIS": [
+      "0.833"
+    ],
+    "NOMAD-Alexandria": [],
+    "OQMD": [],
+    "GNoME": null
+  },
+  "hull_fidelity": {
+    "MP": [
+      "Sm2Fe17:fail(0.0229)",
+      "SmFe3:pass(0.0075)",
+      "SmFe2:fail(0.0228)"
+    ],
+    "AFLOW": [
+      "Sm2Fe17:no entry",
+      "SmFe3:no entry",
+      "SmFe2:no entry"
+    ],
+    "JARVIS": [
+      "Sm2Fe17:fail(0.0519)",
+      "SmFe3:no entry",
+      "SmFe2:pass(0.0012)"
+    ],
+    "NOMAD-Alexandria": [
+      "Sm2Fe17:fail(0.0194)",
+      "SmFe3:pass(0.0053)",
+      "SmFe2:fail(0.0229)"
+    ],
+    "OQMD": [
+      "Sm2Fe17:fail(0.02)",
+      "SmFe3:pass(0.006)",
+      "SmFe2:fail(0.023)"
+    ],
+    "GNoME": [
+      "Sm2Fe17:no entry",
+      "SmFe3:no entry",
+      "SmFe2:no entry"
+    ]
+  },
+  "scorecard": {
+    "MP": {
+      "hits": 23,
+      "misses": 1,
+      "false_alarms": 1,
+      "correct_rejects": 0,
+      "no_data": 5,
+      "coverage_rate": 0.833,
+      "hit_rate_when_covered": 0.958,
+      "n_with_native_entry": 10
+    },
+    "AFLOW": {
+      "hits": 0,
+      "misses": 0,
+      "false_alarms": 0,
+      "correct_rejects": 0,
+      "no_data": 30,
+      "coverage_rate": 0.0,
+      "hit_rate_when_covered": "",
+      "n_with_native_entry": 0
+    },
+    "JARVIS": {
+      "hits": 1,
+      "misses": 19,
+      "false_alarms": 0,
+      "correct_rejects": 1,
+      "no_data": 9,
+      "coverage_rate": 0.7,
+      "hit_rate_when_covered": 0.05,
+      "n_with_native_entry": 3
+    },
+    "NOMAD-Alexandria": {
+      "hits": 24,
+      "misses": 0,
+      "false_alarms": 1,
+      "correct_rejects": 0,
+      "no_data": 5,
+      "coverage_rate": 0.833,
+      "hit_rate_when_covered": 1.0,
+      "n_with_native_entry": 9
+    },
+    "OQMD": {
+      "hits": 20,
+      "misses": 0,
+      "false_alarms": 1,
+      "correct_rejects": 0,
+      "no_data": 9,
+      "coverage_rate": 0.7,
+      "hit_rate_when_covered": 1.0,
+      "n_with_native_entry": 3
+    },
+    "GNoME": {
+      "hits": 0,
+      "misses": 0,
+      "false_alarms": 0,
+      "correct_rejects": 0,
+      "no_data": 30,
+      "coverage_rate": 0.0,
+      "hit_rate_when_covered": "",
+      "n_with_native_entry": 0
+    }
+  },
+  "magnetization_O01": {
+    "measured_m_Fe_RT": 1.634,
+    "measured_m_Fe_0K_range": [
+      1.879,
+      1.955
+    ],
+    "computed": {
+      "MP": "",
+      "AFLOW": "",
+      "JARVIS": 1.503,
+      "NOMAD-Alexandria": 2.228,
+      "OQMD": "",
+      "GNoME": ""
+    }
+  },
+  "discrimination": {
+    "MP": {
+      "Sm2Fe17_stable_meV": 22.9,
+      "TbCu7_x9_metastable_meV": 19.3,
+      "SmFe12_not_formed_by_RS_meV": 23.7,
+      "spread_meV": 4.4,
+      "Sm2Fe17_ranked_below_TbCu7": false
+    },
+    "AFLOW": null,
+    "JARVIS": {
+      "Sm2Fe17_stable_meV": 51.9,
+      "TbCu7_x9_metastable_meV": 89.4,
+      "SmFe12_not_formed_by_RS_meV": 260.8,
+      "spread_meV": 208.9,
+      "Sm2Fe17_ranked_below_TbCu7": true
+    },
+    "NOMAD-Alexandria": {
+      "Sm2Fe17_stable_meV": 19.4,
+      "TbCu7_x9_metastable_meV": 15.6,
+      "SmFe12_not_formed_by_RS_meV": 18.6,
+      "spread_meV": 3.8,
+      "Sm2Fe17_ranked_below_TbCu7": false
+    },
+    "OQMD": {
+      "Sm2Fe17_stable_meV": 20.0,
+      "TbCu7_x9_metastable_meV": 18.1,
+      "SmFe12_not_formed_by_RS_meV": 22.0,
+      "spread_meV": 3.9,
+      "Sm2Fe17_ranked_below_TbCu7": false
+    },
+    "GNoME": null
+  }
+}

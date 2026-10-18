@@ -1,0 +1,181 @@
+obs_id,system,test_family,test_outcome,process,doi,database,metric_eV_atom,coverage,matched,comp_distance,metric_minus_TS_conf,verdict_25meV,verdict_50meV,verdict_100meV
+O01,Sm-Fe,TbCu7,formed,melt spinning (>15 m/s),10.1063/1.349302,MP,0.0193,binary-path model,ordered-parent envelope at x=9,0.0,0.008,hit,hit,hit
+O01,Sm-Fe,TbCu7,formed,melt spinning (>15 m/s),10.1063/1.349302,AFLOW,,none,,,,no data,no data,no data
+O01,Sm-Fe,TbCu7,formed,melt spinning (>15 m/s),10.1063/1.349302,JARVIS,0.0894,binary-path model,ordered-parent envelope at x=9,0.0,0.0781,miss,miss,hit
+O01,Sm-Fe,TbCu7,formed,melt spinning (>15 m/s),10.1063/1.349302,NOMAD-Alexandria,0.0156,binary-path model,ordered-parent envelope at x=9,0.0,0.0043,hit,hit,hit
+O01,Sm-Fe,TbCu7,formed,melt spinning (>15 m/s),10.1063/1.349302,OQMD,0.0181,binary-path model,ordered-parent envelope at x=9,0.0,0.0068,hit,hit,hit
+O01,Sm-Fe,TbCu7,formed,melt spinning (>15 m/s),10.1063/1.349302,GNoME,,none,,,,no data,no data,no data
+O02,Sm-Fe,Th2Zn17,formed,melt spinning (lower quench rate / higher Sm),10.1063/1.349302,MP,0.0229,binary entry,mp-1426 Fe17Sm2,0.0,,hit,hit,hit
+O02,Sm-Fe,Th2Zn17,formed,melt spinning (lower quench rate / higher Sm),10.1063/1.349302,AFLOW,,none,,,,no data,no data,no data
+O02,Sm-Fe,Th2Zn17,formed,melt spinning (lower quench rate / higher Sm),10.1063/1.349302,JARVIS,0.0519,binary entry,JVASP-85844 Fe17Sm2,0.0,,miss,miss,hit
+O02,Sm-Fe,Th2Zn17,formed,melt spinning (lower quench rate / higher Sm),10.1063/1.349302,NOMAD-Alexandria,0.0194,binary entry,agm005529553 Fe17Sm2,0.0,,hit,hit,hit
+O02,Sm-Fe,Th2Zn17,formed,melt spinning (lower quench rate / higher Sm),10.1063/1.349302,OQMD,0.02,binary entry,oqmd-4818030 Fe17Sm2,0.0,,hit,hit,hit
+O02,Sm-Fe,Th2Zn17,formed,melt spinning (lower quench rate / higher Sm),10.1063/1.349302,GNoME,,none,,,,no data,no data,no data
+O03,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,MP,0.0193,binary-path model,ordered-parent envelope at x=9,0.0,0.008,hit,hit,hit
+O03,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,AFLOW,,none,,,,no data,no data,no data
+O03,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,JARVIS,0.0894,binary-path model,ordered-parent envelope at x=9,0.0,0.0781,miss,miss,hit
+O03,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,NOMAD-Alexandria,0.0156,binary-path model,ordered-parent envelope at x=9,0.0,0.0043,hit,hit,hit
+O03,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,OQMD,0.0181,binary-path model,ordered-parent envelope at x=9,0.0,0.0068,hit,hit,hit
+O03,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,GNoME,,none,,,,no data,no data,no data
+O04,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,MP,0.0193,binary-path model,ordered-parent envelope at x=9,0.0,0.008,hit,hit,hit
+O04,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,AFLOW,,none,,,,no data,no data,no data
+O04,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,JARVIS,0.0894,binary-path model,ordered-parent envelope at x=9,0.0,0.0781,miss,miss,hit
+O04,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,NOMAD-Alexandria,0.0156,binary-path model,ordered-parent envelope at x=9,0.0,0.0043,hit,hit,hit
+O04,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,OQMD,0.0181,binary-path model,ordered-parent envelope at x=9,0.0,0.0068,hit,hit,hit
+O04,Sm-Fe,TbCu7,formed,melt spinning,10.2497/jjspm.57.357,GNoME,,none,,,,no data,no data,no data
+O07,Sm-Fe,Th2Ni17,formed,mechanical alloying + crystallisation anneal,10.1063/1.350423,MP,0.0229,binary entry,mp-1426 Fe17Sm2,0.0,,hit,hit,hit
+O07,Sm-Fe,Th2Ni17,formed,mechanical alloying + crystallisation anneal,10.1063/1.350423,AFLOW,,none,,,,no data,no data,no data
+O07,Sm-Fe,Th2Ni17,formed,mechanical alloying + crystallisation anneal,10.1063/1.350423,JARVIS,0.0519,binary entry,JVASP-85844 Fe17Sm2,0.0,,miss,miss,hit
+O07,Sm-Fe,Th2Ni17,formed,mechanical alloying + crystallisation anneal,10.1063/1.350423,NOMAD-Alexandria,0.0194,binary entry,agm005529553 Fe17Sm2,0.0,,hit,hit,hit
+O07,Sm-Fe,Th2Ni17,formed,mechanical alloying + crystallisation anneal,10.1063/1.350423,OQMD,0.02,binary entry,oqmd-4818030 Fe17Sm2,0.0,,hit,hit,hit
+O07,Sm-Fe,Th2Ni17,formed,mechanical alloying + crystallisation anneal,10.1063/1.350423,GNoME,,none,,,,no data,no data,no data
+O08,Sm-Fe,TbCu7,formed,mechanical alloying + annealing,10.1016/s0925-8388(98)00571-4,MP,0.0193,binary-path model,ordered-parent envelope at x=9,0.0,0.008,hit,hit,hit
+O08,Sm-Fe,TbCu7,formed,mechanical alloying + annealing,10.1016/s0925-8388(98)00571-4,AFLOW,,none,,,,no data,no data,no data
+O08,Sm-Fe,TbCu7,formed,mechanical alloying + annealing,10.1016/s0925-8388(98)00571-4,JARVIS,0.0894,binary-path model,ordered-parent envelope at x=9,0.0,0.0781,miss,miss,hit
+O08,Sm-Fe,TbCu7,formed,mechanical alloying + annealing,10.1016/s0925-8388(98)00571-4,NOMAD-Alexandria,0.0156,binary-path model,ordered-parent envelope at x=9,0.0,0.0043,hit,hit,hit
+O08,Sm-Fe,TbCu7,formed,mechanical alloying + annealing,10.1016/s0925-8388(98)00571-4,OQMD,0.0181,binary-path model,ordered-parent envelope at x=9,0.0,0.0068,hit,hit,hit
+O08,Sm-Fe,TbCu7,formed,mechanical alloying + annealing,10.1016/s0925-8388(98)00571-4,GNoME,,none,,,,no data,no data,no data
+O09,Sm-Fe,TbCu7,formed,melt spinning,10.1016/s1002-0721(12)60290-7,MP,0.0193,binary-path model,ordered-parent envelope at x=9,0.0,0.008,hit,hit,hit
+O09,Sm-Fe,TbCu7,formed,melt spinning,10.1016/s1002-0721(12)60290-7,AFLOW,,none,,,,no data,no data,no data
+O09,Sm-Fe,TbCu7,formed,melt spinning,10.1016/s1002-0721(12)60290-7,JARVIS,0.0894,binary-path model,ordered-parent envelope at x=9,0.0,0.0781,miss,miss,hit
+O09,Sm-Fe,TbCu7,formed,melt spinning,10.1016/s1002-0721(12)60290-7,NOMAD-Alexandria,0.0156,binary-path model,ordered-parent envelope at x=9,0.0,0.0043,hit,hit,hit
+O09,Sm-Fe,TbCu7,formed,melt spinning,10.1016/s1002-0721(12)60290-7,OQMD,0.0181,binary-path model,ordered-parent envelope at x=9,0.0,0.0068,hit,hit,hit
+O09,Sm-Fe,TbCu7,formed,melt spinning,10.1016/s1002-0721(12)60290-7,GNoME,,none,,,,no data,no data,no data
+O10,Sm-Fe,ThMn12,not_formed,high-speed melt spinning,10.1016/j.jallcom.2020.154010,MP,0.0237,binary entry,mp-1104899 Fe12Sm,0.0,,false alarm,false alarm,false alarm
+O10,Sm-Fe,ThMn12,not_formed,high-speed melt spinning,10.1016/j.jallcom.2020.154010,AFLOW,,none,,,,no data,no data,no data
+O10,Sm-Fe,ThMn12,not_formed,high-speed melt spinning,10.1016/j.jallcom.2020.154010,JARVIS,0.2608,binary entry,JVASP-37997 Fe12Sm,0.0,,correct reject,correct reject,correct reject
+O10,Sm-Fe,ThMn12,not_formed,high-speed melt spinning,10.1016/j.jallcom.2020.154010,NOMAD-Alexandria,0.0186,binary entry,agm005290874 Fe12Sm,0.0,,false alarm,false alarm,false alarm
+O10,Sm-Fe,ThMn12,not_formed,high-speed melt spinning,10.1016/j.jallcom.2020.154010,OQMD,0.022,binary entry,oqmd-4163706 Fe12Sm,0.0,,false alarm,false alarm,false alarm
+O10,Sm-Fe,ThMn12,not_formed,high-speed melt spinning,10.1016/j.jallcom.2020.154010,GNoME,,none,,,,no data,no data,no data
+O12,Sm-Fe,TbCu7,formed,melt spinning 40 m/s,10.1007/s12598-017-0879-8,MP,0.0193,binary-path model,ordered-parent envelope at x=9,0.0,0.008,hit,hit,hit
+O12,Sm-Fe,TbCu7,formed,melt spinning 40 m/s,10.1007/s12598-017-0879-8,AFLOW,,none,,,,no data,no data,no data
+O12,Sm-Fe,TbCu7,formed,melt spinning 40 m/s,10.1007/s12598-017-0879-8,JARVIS,0.0894,binary-path model,ordered-parent envelope at x=9,0.0,0.0781,miss,miss,hit
+O12,Sm-Fe,TbCu7,formed,melt spinning 40 m/s,10.1007/s12598-017-0879-8,NOMAD-Alexandria,0.0156,binary-path model,ordered-parent envelope at x=9,0.0,0.0043,hit,hit,hit
+O12,Sm-Fe,TbCu7,formed,melt spinning 40 m/s,10.1007/s12598-017-0879-8,OQMD,0.0181,binary-path model,ordered-parent envelope at x=9,0.0,0.0068,hit,hit,hit
+O12,Sm-Fe,TbCu7,formed,melt spinning 40 m/s,10.1007/s12598-017-0879-8,GNoME,,none,,,,no data,no data,no data
+O13,Sm-Fe-Ti,ThMn12,formed,melt spinning,10.1063/1.350039,MP,0.0152,ternary entry,mp-1219022 Fe11SmTi,0.0,,hit,hit,hit
+O13,Sm-Fe-Ti,ThMn12,formed,melt spinning,10.1063/1.350039,AFLOW,,none,,,,no data,no data,no data
+O13,Sm-Fe-Ti,ThMn12,formed,melt spinning,10.1063/1.350039,JARVIS,0.2608,binary entry (M ignored),JVASP-37997 Fe12Sm,0.077,,miss,miss,miss
+O13,Sm-Fe-Ti,ThMn12,formed,melt spinning,10.1063/1.350039,NOMAD-Alexandria,0.0133,ternary entry,agm005220819 Fe11SmTi,0.0,,hit,hit,hit
+O13,Sm-Fe-Ti,ThMn12,formed,melt spinning,10.1063/1.350039,OQMD,0.022,binary entry (M ignored),oqmd-4163706 Fe12Sm,0.077,,hit,hit,hit
+O13,Sm-Fe-Ti,ThMn12,formed,melt spinning,10.1063/1.350039,GNoME,,none,,,,no data,no data,no data
+O15,Sm-Fe-Ti,omega,formed,melt spinning (crystallised amorphous ribbon),10.1109/20.104911,MP,,none,,,,no data,no data,no data
+O15,Sm-Fe-Ti,omega,formed,melt spinning (crystallised amorphous ribbon),10.1109/20.104911,AFLOW,,none,,,,no data,no data,no data
+O15,Sm-Fe-Ti,omega,formed,melt spinning (crystallised amorphous ribbon),10.1109/20.104911,JARVIS,,none,,,,no data,no data,no data
+O15,Sm-Fe-Ti,omega,formed,melt spinning (crystallised amorphous ribbon),10.1109/20.104911,NOMAD-Alexandria,,none,,,,no data,no data,no data
+O15,Sm-Fe-Ti,omega,formed,melt spinning (crystallised amorphous ribbon),10.1109/20.104911,OQMD,,none,,,,no data,no data,no data
+O15,Sm-Fe-Ti,omega,formed,melt spinning (crystallised amorphous ribbon),10.1109/20.104911,GNoME,,none,,,,no data,no data,no data
+O16,Sm-Fe-Ti,CaCu5,formed,melt spinning,10.1016/j.jmmm.2021.168070,MP,0.0065,binary entry (M ignored),mp-1566 Fe5Sm,0.03,,hit,hit,hit
+O16,Sm-Fe-Ti,CaCu5,formed,melt spinning,10.1016/j.jmmm.2021.168070,AFLOW,,none,,,,no data,no data,no data
+O16,Sm-Fe-Ti,CaCu5,formed,melt spinning,10.1016/j.jmmm.2021.168070,JARVIS,0.0,binary entry (M ignored),JVASP-19762 Fe5Sm,0.03,,hit,hit,hit
+O16,Sm-Fe-Ti,CaCu5,formed,melt spinning,10.1016/j.jmmm.2021.168070,NOMAD-Alexandria,0.007,binary entry (M ignored),agm003203037 Fe5Sm,0.03,,hit,hit,hit
+O16,Sm-Fe-Ti,CaCu5,formed,melt spinning,10.1016/j.jmmm.2021.168070,OQMD,0.007,binary entry (M ignored),oqmd-4078455 Fe5Sm,0.03,,hit,hit,hit
+O16,Sm-Fe-Ti,CaCu5,formed,melt spinning,10.1016/j.jmmm.2021.168070,GNoME,,none,,,,no data,no data,no data
+O17,Sm-Fe-Ti,Sm5Fe17,formed,melt spinning,10.1016/j.jmmm.2021.168070,MP,,none,,,,no data,no data,no data
+O17,Sm-Fe-Ti,Sm5Fe17,formed,melt spinning,10.1016/j.jmmm.2021.168070,AFLOW,,none,,,,no data,no data,no data
+O17,Sm-Fe-Ti,Sm5Fe17,formed,melt spinning,10.1016/j.jmmm.2021.168070,JARVIS,,none,,,,no data,no data,no data
+O17,Sm-Fe-Ti,Sm5Fe17,formed,melt spinning,10.1016/j.jmmm.2021.168070,NOMAD-Alexandria,,none,,,,no data,no data,no data
+O17,Sm-Fe-Ti,Sm5Fe17,formed,melt spinning,10.1016/j.jmmm.2021.168070,OQMD,,none,,,,no data,no data,no data
+O17,Sm-Fe-Ti,Sm5Fe17,formed,melt spinning,10.1016/j.jmmm.2021.168070,GNoME,,none,,,,no data,no data,no data
+O18,Sm-Fe-Ti,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,MP,0.0152,ternary entry,mp-1219022 Fe11SmTi,0.0,,hit,hit,hit
+O18,Sm-Fe-Ti,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,AFLOW,,none,,,,no data,no data,no data
+O18,Sm-Fe-Ti,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,JARVIS,0.2608,binary entry (M ignored),JVASP-37997 Fe12Sm,0.077,,miss,miss,miss
+O18,Sm-Fe-Ti,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,NOMAD-Alexandria,0.0133,ternary entry,agm005220819 Fe11SmTi,0.0,,hit,hit,hit
+O18,Sm-Fe-Ti,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,OQMD,0.022,binary entry (M ignored),oqmd-4163706 Fe12Sm,0.077,,hit,hit,hit
+O18,Sm-Fe-Ti,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,GNoME,,none,,,,no data,no data,no data
+O19,Sm-Fe-V,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,MP,0.032,ternary entry,mp-1219210 Fe10SmV2,0.0,,miss,hit,hit
+O19,Sm-Fe-V,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,AFLOW,,none,,,,no data,no data,no data
+O19,Sm-Fe-V,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,JARVIS,,none,,,,no data,no data,no data
+O19,Sm-Fe-V,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,NOMAD-Alexandria,0.0465,ternary entry,agm005266931 Fe10SmV2,0.0,,miss,hit,hit
+O19,Sm-Fe-V,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,OQMD,,none,,,,no data,no data,no data
+O19,Sm-Fe-V,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,GNoME,,none,,,,no data,no data,no data
+O20,Sm-Fe-V,ThMn12,formed,melt spinning,10.3390/ma18102322,MP,0.032,ternary entry,mp-1219210 Fe10SmV2,0.0,,miss,hit,hit
+O20,Sm-Fe-V,ThMn12,formed,melt spinning,10.3390/ma18102322,AFLOW,,none,,,,no data,no data,no data
+O20,Sm-Fe-V,ThMn12,formed,melt spinning,10.3390/ma18102322,JARVIS,,none,,,,no data,no data,no data
+O20,Sm-Fe-V,ThMn12,formed,melt spinning,10.3390/ma18102322,NOMAD-Alexandria,0.0465,ternary entry,agm005266931 Fe10SmV2,0.0,,miss,hit,hit
+O20,Sm-Fe-V,ThMn12,formed,melt spinning,10.3390/ma18102322,OQMD,,none,,,,no data,no data,no data
+O20,Sm-Fe-V,ThMn12,formed,melt spinning,10.3390/ma18102322,GNoME,,none,,,,no data,no data,no data
+O21,Sm-Fe-V,TbCu7,formed,melt spinning 50 m/s,10.2497/jjspm.44.812,MP,0.0184,ternary approximant,mp-1219218 Fe16Sm2V (2:17),0.022,0.0071,hit,hit,hit
+O21,Sm-Fe-V,TbCu7,formed,melt spinning 50 m/s,10.2497/jjspm.44.812,AFLOW,,none,,,,no data,no data,no data
+O21,Sm-Fe-V,TbCu7,formed,melt spinning 50 m/s,10.2497/jjspm.44.812,JARVIS,0.0894,binary-path model (M ignored),ordered-parent envelope at x=9,0.075,0.0781,miss,miss,hit
+O21,Sm-Fe-V,TbCu7,formed,melt spinning 50 m/s,10.2497/jjspm.44.812,NOMAD-Alexandria,0.0156,binary-path model (M ignored),ordered-parent envelope at x=9,0.075,0.0043,hit,hit,hit
+O21,Sm-Fe-V,TbCu7,formed,melt spinning 50 m/s,10.2497/jjspm.44.812,OQMD,0.0181,binary-path model (M ignored),ordered-parent envelope at x=9,0.075,0.0068,hit,hit,hit
+O21,Sm-Fe-V,TbCu7,formed,melt spinning 50 m/s,10.2497/jjspm.44.812,GNoME,,none,,,,no data,no data,no data
+O22,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.115161,MP,0.0193,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.008,hit,hit,hit
+O22,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.115161,AFLOW,,none,,,,no data,no data,no data
+O22,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.115161,JARVIS,0.0894,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.0781,miss,miss,hit
+O22,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.115161,NOMAD-Alexandria,0.0156,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.0043,hit,hit,hit
+O22,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.115161,OQMD,0.0181,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.0068,hit,hit,hit
+O22,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.115161,GNoME,,none,,,,no data,no data,no data
+O23,Sm-Fe-Zr,TbCu7,formed,melt spinning,10.2320/matertrans1989.37.1232,MP,0.0193,binary-path model (M ignored),ordered-parent envelope at x=9,0.027,0.008,hit,hit,hit
+O23,Sm-Fe-Zr,TbCu7,formed,melt spinning,10.2320/matertrans1989.37.1232,AFLOW,,none,,,,no data,no data,no data
+O23,Sm-Fe-Zr,TbCu7,formed,melt spinning,10.2320/matertrans1989.37.1232,JARVIS,0.0894,binary-path model (M ignored),ordered-parent envelope at x=9,0.027,0.0781,miss,miss,hit
+O23,Sm-Fe-Zr,TbCu7,formed,melt spinning,10.2320/matertrans1989.37.1232,NOMAD-Alexandria,0.0156,binary-path model (M ignored),ordered-parent envelope at x=9,0.027,0.0043,hit,hit,hit
+O23,Sm-Fe-Zr,TbCu7,formed,melt spinning,10.2320/matertrans1989.37.1232,OQMD,0.0181,binary-path model (M ignored),ordered-parent envelope at x=9,0.027,0.0068,hit,hit,hit
+O23,Sm-Fe-Zr,TbCu7,formed,melt spinning,10.2320/matertrans1989.37.1232,GNoME,,none,,,,no data,no data,no data
+O24,Sm-Fe-Zr,TbCu7,formed,melt spinning 30-40 m/s,10.3379/tmjpn2001.4.113,MP,0.0193,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.008,hit,hit,hit
+O24,Sm-Fe-Zr,TbCu7,formed,melt spinning 30-40 m/s,10.3379/tmjpn2001.4.113,AFLOW,,none,,,,no data,no data,no data
+O24,Sm-Fe-Zr,TbCu7,formed,melt spinning 30-40 m/s,10.3379/tmjpn2001.4.113,JARVIS,0.0894,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.0781,miss,miss,hit
+O24,Sm-Fe-Zr,TbCu7,formed,melt spinning 30-40 m/s,10.3379/tmjpn2001.4.113,NOMAD-Alexandria,0.0156,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.0043,hit,hit,hit
+O24,Sm-Fe-Zr,TbCu7,formed,melt spinning 30-40 m/s,10.3379/tmjpn2001.4.113,OQMD,0.0181,binary-path model (M ignored),ordered-parent envelope at x=9,0.01,0.0068,hit,hit,hit
+O24,Sm-Fe-Zr,TbCu7,formed,melt spinning 30-40 m/s,10.3379/tmjpn2001.4.113,GNoME,,none,,,,no data,no data,no data
+O25,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.361679,MP,0.021,binary-path model (M ignored),ordered-parent envelope at x=10,0.021,0.0094,hit,hit,hit
+O25,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.361679,AFLOW,,none,,,,no data,no data,no data
+O25,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.361679,JARVIS,0.1561,binary-path model (M ignored),ordered-parent envelope at x=10,0.021,0.1445,miss,miss,miss
+O25,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.361679,NOMAD-Alexandria,0.0168,binary-path model (M ignored),ordered-parent envelope at x=10,0.021,0.0052,hit,hit,hit
+O25,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.361679,OQMD,0.0196,binary-path model (M ignored),ordered-parent envelope at x=10,0.021,0.008,hit,hit,hit
+O25,Sm-Fe-Zr,TbCu7,formed,rapid quenching,10.1063/1.361679,GNoME,,none,,,,no data,no data,no data
+O28,Sm-Fe-Nb,TbCu7,formed,melt spinning + anneal,10.1007/s12598-018-1004-3,MP,0.021,binary-path model (M ignored),ordered-parent envelope at x=10,0.009,0.0094,hit,hit,hit
+O28,Sm-Fe-Nb,TbCu7,formed,melt spinning + anneal,10.1007/s12598-018-1004-3,AFLOW,,none,,,,no data,no data,no data
+O28,Sm-Fe-Nb,TbCu7,formed,melt spinning + anneal,10.1007/s12598-018-1004-3,JARVIS,0.1561,binary-path model (M ignored),ordered-parent envelope at x=10,0.009,0.1445,miss,miss,miss
+O28,Sm-Fe-Nb,TbCu7,formed,melt spinning + anneal,10.1007/s12598-018-1004-3,NOMAD-Alexandria,0.0168,binary-path model (M ignored),ordered-parent envelope at x=10,0.009,0.0052,hit,hit,hit
+O28,Sm-Fe-Nb,TbCu7,formed,melt spinning + anneal,10.1007/s12598-018-1004-3,OQMD,0.0196,binary-path model (M ignored),ordered-parent envelope at x=10,0.009,0.008,hit,hit,hit
+O28,Sm-Fe-Nb,TbCu7,formed,melt spinning + anneal,10.1007/s12598-018-1004-3,GNoME,,none,,,,no data,no data,no data
+O29,Sm-Fe-Co,TbCu7,formed,melt spinning 12 20 32 m/s,W3146021470 (Rare Metals 2014),MP,0.0193,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.008,hit,hit,hit
+O29,Sm-Fe-Co,TbCu7,formed,melt spinning 12 20 32 m/s,W3146021470 (Rare Metals 2014),AFLOW,,none,,,,no data,no data,no data
+O29,Sm-Fe-Co,TbCu7,formed,melt spinning 12 20 32 m/s,W3146021470 (Rare Metals 2014),JARVIS,0.0894,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.0781,miss,miss,hit
+O29,Sm-Fe-Co,TbCu7,formed,melt spinning 12 20 32 m/s,W3146021470 (Rare Metals 2014),NOMAD-Alexandria,0.0156,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.0043,hit,hit,hit
+O29,Sm-Fe-Co,TbCu7,formed,melt spinning 12 20 32 m/s,W3146021470 (Rare Metals 2014),OQMD,0.0181,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.0068,hit,hit,hit
+O29,Sm-Fe-Co,TbCu7,formed,melt spinning 12 20 32 m/s,W3146021470 (Rare Metals 2014),GNoME,,none,,,,no data,no data,no data
+O30,Sm-Fe-Ga,TbCu7,formed,melt spinning,10.1016/s1002-0721(14)60132-0,MP,0.0193,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.008,hit,hit,hit
+O30,Sm-Fe-Ga,TbCu7,formed,melt spinning,10.1016/s1002-0721(14)60132-0,AFLOW,,none,,,,no data,no data,no data
+O30,Sm-Fe-Ga,TbCu7,formed,melt spinning,10.1016/s1002-0721(14)60132-0,JARVIS,0.0894,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.0781,miss,miss,hit
+O30,Sm-Fe-Ga,TbCu7,formed,melt spinning,10.1016/s1002-0721(14)60132-0,NOMAD-Alexandria,0.0156,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.0043,hit,hit,hit
+O30,Sm-Fe-Ga,TbCu7,formed,melt spinning,10.1016/s1002-0721(14)60132-0,OQMD,0.0181,binary-path model (M ignored),ordered-parent envelope at x=9,0.03,0.0068,hit,hit,hit
+O30,Sm-Fe-Ga,TbCu7,formed,melt spinning,10.1016/s1002-0721(14)60132-0,GNoME,,none,,,,no data,no data,no data
+O31,Sm-Fe-Ga,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,MP,,none,,,,no data,no data,no data
+O31,Sm-Fe-Ga,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,AFLOW,,none,,,,no data,no data,no data
+O31,Sm-Fe-Ga,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,JARVIS,,none,,,,no data,no data,no data
+O31,Sm-Fe-Ga,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,NOMAD-Alexandria,,none,,,,no data,no data,no data
+O31,Sm-Fe-Ga,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,OQMD,,none,,,,no data,no data,no data
+O31,Sm-Fe-Ga,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,GNoME,,none,,,,no data,no data,no data
+O32,Sm-Fe-Si,Th2Zn17,formed,mechanical alloying + anneal,10.1103/physrevb.65.014419,MP,0.0229,binary entry (M ignored),mp-1426 Fe17Sm2,0.053,,hit,hit,hit
+O32,Sm-Fe-Si,Th2Zn17,formed,mechanical alloying + anneal,10.1103/physrevb.65.014419,AFLOW,,none,,,,no data,no data,no data
+O32,Sm-Fe-Si,Th2Zn17,formed,mechanical alloying + anneal,10.1103/physrevb.65.014419,JARVIS,0.0519,binary entry (M ignored),JVASP-85844 Fe17Sm2,0.053,,miss,miss,hit
+O32,Sm-Fe-Si,Th2Zn17,formed,mechanical alloying + anneal,10.1103/physrevb.65.014419,NOMAD-Alexandria,0.0194,binary entry (M ignored),agm005529553 Fe17Sm2,0.053,,hit,hit,hit
+O32,Sm-Fe-Si,Th2Zn17,formed,mechanical alloying + anneal,10.1103/physrevb.65.014419,OQMD,0.02,binary entry (M ignored),oqmd-4818030 Fe17Sm2,0.053,,hit,hit,hit
+O32,Sm-Fe-Si,Th2Zn17,formed,mechanical alloying + anneal,10.1103/physrevb.65.014419,GNoME,,none,,,,no data,no data,no data
+O33,Sm-Fe-Si,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,MP,0.0959,ternary entry,mp-1219261 Fe10Si2Sm,0.0,,miss,miss,hit
+O33,Sm-Fe-Si,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,AFLOW,,none,,,,no data,no data,no data
+O33,Sm-Fe-Si,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,JARVIS,,none,,,,no data,no data,no data
+O33,Sm-Fe-Si,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,NOMAD-Alexandria,0.0399,ternary entry,agm005741265 Fe10Si2Sm,0.0,,miss,hit,hit
+O33,Sm-Fe-Si,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,OQMD,,none,,,,no data,no data,no data
+O33,Sm-Fe-Si,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,GNoME,,none,,,,no data,no data,no data
+O34,Sm-Fe-Al,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,MP,,none,,,,no data,no data,no data
+O34,Sm-Fe-Al,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,AFLOW,,none,,,,no data,no data,no data
+O34,Sm-Fe-Al,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,JARVIS,,none,,,,no data,no data,no data
+O34,Sm-Fe-Al,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,NOMAD-Alexandria,,none,,,,no data,no data,no data
+O34,Sm-Fe-Al,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,OQMD,,none,,,,no data,no data,no data
+O34,Sm-Fe-Al,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,GNoME,,none,,,,no data,no data,no data
+O35,Sm-Fe-Cu,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,MP,,none,,,,no data,no data,no data
+O35,Sm-Fe-Cu,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,AFLOW,,none,,,,no data,no data,no data
+O35,Sm-Fe-Cu,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,JARVIS,,none,,,,no data,no data,no data
+O35,Sm-Fe-Cu,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,NOMAD-Alexandria,,none,,,,no data,no data,no data
+O35,Sm-Fe-Cu,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,OQMD,,none,,,,no data,no data,no data
+O35,Sm-Fe-Cu,ThMn12,formed,melt spinning + anneal 750-1050 C,10.1063/1.101501,GNoME,,none,,,,no data,no data,no data
+O36,Sm-Fe-Mo,ThMn12,formed,melt spinning,10.1109/20.42287,MP,0.012,ternary entry,mp-1219069 Fe11MoSm,0.077,,hit,hit,hit
+O36,Sm-Fe-Mo,ThMn12,formed,melt spinning,10.1109/20.42287,AFLOW,,none,,,,no data,no data,no data
+O36,Sm-Fe-Mo,ThMn12,formed,melt spinning,10.1109/20.42287,JARVIS,,none,,,,no data,no data,no data
+O36,Sm-Fe-Mo,ThMn12,formed,melt spinning,10.1109/20.42287,NOMAD-Alexandria,0.0113,ternary entry,agm005280486 Fe11MoSm,0.077,,hit,hit,hit
+O36,Sm-Fe-Mo,ThMn12,formed,melt spinning,10.1109/20.42287,OQMD,,none,,,,no data,no data,no data
+O36,Sm-Fe-Mo,ThMn12,formed,melt spinning,10.1109/20.42287,GNoME,,none,,,,no data,no data,no data

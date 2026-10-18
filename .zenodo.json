@@ -1,0 +1,57 @@
+{
+  "title": "TbCu7 Stability Screen: validation of public DFT databases against observed metastable phases in Sm-Fe-M alloys (stability proxy table)",
+  "upload_type": "dataset",
+  "version": "0.1.0",
+  "creators": [
+    {
+      "name": "Ejeka, Joshua Chukwuemeka",
+      "orcid": "0009-0005-5885-5073",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "<p>Compares energy above hull and computed Fe moments from Materials Project, AFLOW, JARVIS-DFT, NOMAD (Alexandria PBE), OQMD and GNoME with phases and magnetization observed in Sm-Fe and Sm-Fe-M alloys after rapid solidification or milling. Includes the stability proxy table (TbCu7 estimated from ordered CaCu5, 2:17, 3:29 and ThMn12 parents), the validation matrix, raw snapshots with provenance, curated literature observations with DOIs, pipeline code and documentation.</p>",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "TbCu7",
+    "SmFe9",
+    "Sm-Fe-N",
+    "permanent magnets",
+    "metastable phases",
+    "melt spinning",
+    "mechanical alloying",
+    "energy above hull",
+    "DFT database validation",
+    "Materials Project",
+    "OQMD",
+    "JARVIS-DFT",
+    "NOMAD",
+    "Alexandria",
+    "AFLOW",
+    "GNoME"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "10.1063/1.349302",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.2497/jjspm.57.357",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1063/1.361679",
+      "relation": "cites",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "10.1038/s41586-023-06735-9",
+      "relation": "cites",
+      "scheme": "doi"
+    }
+  ],
+  "notes": "Snapshot of database values: 2026-10-13. Code MIT; data CC BY 4.0.",
+  "publication_date": "2026-10-18",
+  "doi": "10.5281/zenodo.23456632"
+}
